@@ -52,7 +52,6 @@ angular.module('frapontillo.gage.directives', ['frapontillo.gage.controllers'])
 
           donut: '@',                       // Turn the gauge into a full circle donut
           donutStartAngle: '@',             // angle to start from when in donut mode
-
           reverse: '@',                     // Reverse the direction of the gauge
           counter: '@',                     // Increase numbers one by one
           decimals: '@',                    // Quantity of decimal numbers to show
